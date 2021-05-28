@@ -1,0 +1,19 @@
+{
+  "name": "lessons",
+  "version": "1.0.0",
+  "main": "10importfiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "validator": "^13.1.17",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
